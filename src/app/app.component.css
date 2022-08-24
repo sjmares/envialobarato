@@ -1,0 +1,13 @@
+#top-nav-header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    width: 100vw;
+    background-color: lightpink;
+}
+
+#quote-tracking-nav {
+height: auto;
+width: 70%;
+}
